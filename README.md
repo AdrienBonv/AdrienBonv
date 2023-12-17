@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrienBonv
-- 👀 I’m interested in sleeping
-- 🌱 I’m currently learning to sleep
+- 👀 I’m me zzzzzzzz
+- 🌱 I’m currently learning everything
 - 📫 How to reach me adrien.bonvallet@epitech.eu
 
 <!---
