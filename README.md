@@ -1,7 +1,28 @@
-- 👋 Hi, I’m @AdrienBonv
-- 👀 I’m me zzzzzzzz
-- 🌱 I’m currently learning everything
-- 📫 How to reach me adrien.bonvallet@epitech.eu
+# 👋 Hi, I'm Adrien Bonvallet
+
+🎓 Graduate from **EPITECH (Master’s in Software Engineering)**  
+💻 Full-Stack Developer — React / Node.js / Mobile  
+📍 Based in France, open to opportunities in **Montréal (QC)**  
+
+---
+
+### 🧠 About Me
+- 💡 Passionate about building **useful and scalable web & mobile apps**  
+- 🔧 Experienced with **React, Node.js, Java Spring Boot**  
+- 🌍 One-year exchange at **California State University, Long Beach (USA)**  
+- 🤝 Worked on **Sopra Steria Real Estate Software** mobile apps and the **Pixavox AI project**  
+
+---
+
+### 🚀 Tech Stack
+`JavaScript` `TypeScript` `React` `Node.js` `Spring Boot` `PostgreSQL` `Prisma` `SwiftUI`
+
+---
+
+### 📫 Contact
+📧 adrien.bonvallet@epitech.eu  
+💼 [LinkedIn](https://www.linkedin.com/in/adrien-bonvallet-70601a199/)
+
 
 <!---
 AdrienBonv/AdrienBonv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
