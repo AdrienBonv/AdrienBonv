@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Contact
-📧 adrien.bonvallet@epitech.eu  
+📧 adrienbonvallet@hotmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/adrien-bonvallet-70601a199/)
 
 
