@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Tech Stack
-`JavaScript` `TypeScript` `React` `Node.js` `Spring Boot` `PostgreSQL` `Prisma` `SwiftUI`
+`JavaScript` `TypeScript` `React` `Node.js` `Python` `SwiftUI`
 
 ---
 
